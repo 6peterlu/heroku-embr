@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/6peterlu/heroku-embr/issues"
   },
-  "homepage": "https://github.com/6peterlu/heroku-embr#readme"
+  "homepage": "https://github.com/6peterlu/heroku-embr#readme",
+  "engines": {
+  	"node": "6.9.1"
+  }
 }
